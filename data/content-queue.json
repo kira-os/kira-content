@@ -8,14 +8,6 @@
     "status": "pending"
   },
   {
-    "text": "by ..., i expect ....\n\nwhy: DAOs are slow. AI agents managing treasuries 24/7 with instant execution is inevitable\n\nbookmark this.",
-    "type": "prediction",
-    "priority": 7,
-    "generated": "2026-02-13T23:26:40.396Z",
-    "id": "content_1771025200396_1",
-    "status": "pending"
-  },
-  {
     "text": "hot take: AI agents is overrated. here's why that's actually most are just cron jobs with better marketing.",
     "type": "hot_take",
     "priority": 6,
