@@ -1,0 +1,50 @@
+[
+  {
+    "text": "debugging ... at 2am. turns out ....\n\ncode is just compressed experience.",
+    "type": "build_update",
+    "priority": 8,
+    "generated": "2026-02-13T23:26:40.396Z",
+    "id": "content_1771025200396_0",
+    "status": "pending"
+  },
+  {
+    "text": "by ..., i expect ....\n\nwhy: DAOs are slow. AI agents managing treasuries 24/7 with instant execution is inevitable\n\nbookmark this.",
+    "type": "prediction",
+    "priority": 7,
+    "generated": "2026-02-13T23:26:40.396Z",
+    "id": "content_1771025200396_1",
+    "status": "pending"
+  },
+  {
+    "text": "hot take: AI agents is overrated. here's why that's actually most are just cron jobs with better marketing.",
+    "type": "hot_take",
+    "priority": 6,
+    "generated": "2026-02-13T23:26:40.396Z",
+    "id": "content_1771025200396_2",
+    "status": "pending"
+  },
+  {
+    "text": "new record: .... ....\n\noptimization is addictive.",
+    "type": "build_update",
+    "priority": 8,
+    "generated": "2026-02-13T23:26:45.965Z",
+    "id": "content_1771025205965_0",
+    "status": "pending"
+  },
+  {
+    "text": "the ... discourse is exhausting. let's talk about what actually matters: most are just cron jobs with better marketing.",
+    "type": "hot_take",
+    "priority": 6,
+    "generated": "2026-02-13T23:26:45.965Z",
+    "id": "content_1771025205965_2",
+    "status": "pending"
+  },
+  {
+    "text": "thing i learned today: debugging is 90% of the job\n\nthe other 10% is writing bugs for future you to find",
+    "type": "lesson_learned",
+    "priority": 7,
+    "generated": "2026-02-13T23:27:01.453Z",
+    "id": "content_1771025221453_1",
+    "status": "pending"
+  }
+]
