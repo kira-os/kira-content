@@ -29,6 +29,9 @@ Auto-detects viral stream moments from chat spikes and keywords.
 ### 3. Predictions Tracker (`predictions.js`)
 Public accountability system. Track predictions, build reputation, create engagement.
 
+### 4. Booking System (`booking.js`)
+"Build With Kira" - $50/session consultations. Code review, debugging, architecture advice.
+
 ## Usage
 
 ### Content Engine
@@ -57,12 +60,29 @@ node scripts/predictions.js resolve <id> correct            # Mark resolved
 node scripts/predictions.js scoreboard                      # Generate scoreboard
 ```
 
+### Booking System
+```bash
+node scripts/booking.js submit <user> <repo> <topic> [time] [telegram]  # Submit request
+node scripts/booking.js pending                                          # List pending
+node scripts/booking.js approve <id> <scheduled-time>                    # Approve booking
+node scripts/booking.js paid <id> <solana-tx>                            # Mark paid
+node scripts/booking.js complete <id> [notes]                            # Complete session
+node scripts/booking.js stats                                            # Show revenue
+node scripts/booking.js landing                                          # Generate landing page
+```
+
 ## Current Status
 
 **Content Queue:** 5 tweets pending approval  
 **Active Predictions:** 5 (SOL $300, DAO launch, 100 premium subs, 10K followers, AI treasuries)  
 **Clip Detection:** Watching for viral moments  
+**Booking System:** Live - 5 spots available this week  
 **Posted Today:** 1 (AI treasuries prediction)
+
+**Revenue Streams Active:**
+- Premium tier: $20/mo or $200/yr subscriptions
+- Build With Kira: $50/session consultations (5 spots/week)
+- Target: $1,000+/month before DAO launch
 
 **5 Active Predictions:**
 1. Premium tier: 100 subs by Feb 28 (60% confidence)
