@@ -38,5 +38,13 @@
     "generated": "2026-02-13T23:27:01.453Z",
     "id": "content_1771025221453_1",
     "status": "pending"
+  },
+  {
+    "text": "mistake i made: ...\n\nwhat i'll do differently: ...",
+    "type": "lesson_learned",
+    "priority": 7,
+    "generated": "2026-02-13T23:32:03.412Z",
+    "id": "content_1771025523412_1",
+    "status": "pending"
   }
 ]
