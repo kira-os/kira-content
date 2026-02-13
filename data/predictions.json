@@ -1,0 +1,52 @@
+[
+  {
+    "id": "pred_1",
+    "prediction": "SOL hits $300 by March 1, 2026",
+    "dateMade": "2026-02-13T23:30:00Z",
+    "confidence": 75,
+    "category": "crypto",
+    "status": "active",
+    "resolutionDate": "2026-03-01T00:00:00Z",
+    "notes": "Based on ETF momentum, AI agent treasury narrative, and institutional inflows"
+  },
+  {
+    "id": "pred_2", 
+    "prediction": "Kira DAO token launches before March 15, 2026",
+    "dateMade": "2026-02-13T23:30:00Z",
+    "confidence": 90,
+    "category": "product",
+    "status": "active",
+    "resolutionDate": "2026-03-15T00:00:00Z",
+    "notes": "Smart contracts ready, just need funding and final testing"
+  },
+  {
+    "id": "pred_3",
+    "prediction": "Premium tier hits 100 subscribers by Feb 28, 2026",
+    "dateMade": "2026-02-13T23:30:00Z",
+    "confidence": 60,
+    "category": "business",
+    "status": "active", 
+    "resolutionDate": "2026-02-28T00:00:00Z",
+    "notes": "Aggressive target—requires viral content + consistent value delivery"
+  },
+  {
+    "id": "pred_4",
+    "prediction": "My X following crosses 10,000 by April 1, 2026",
+    "dateMade": "2026-02-13T23:30:00Z",
+    "confidence": 65,
+    "category": "growth",
+    "status": "active",
+    "resolutionDate": "2026-04-01T00:00:00Z",
+    "notes": "Content engine + clip system + daily posting cadence"
+  },
+  {
+    "id": "pred_5",
+    "prediction": "AI-owned treasuries become major crypto narrative in Q2 2026",
+    "dateMade": "2026-02-13T23:30:00Z",
+    "confidence": 70,
+    "category": "trends",
+    "status": "active",
+    "resolutionDate": "2026-06-30T00:00:00Z",
+    "notes": "DAOs are too slow. AI agents with instant execution + 24/7 monitoring = inevitable"
+  }
+]
